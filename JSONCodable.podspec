@@ -13,5 +13,5 @@ Pod::Spec.new do |s|
     s.source           = { :git => 'https://github.com/finn-no/JSONCodable.git', :tag => s.version }
     s.cocoapods_version = '>= 1.4.0'
     s.source_files = 'Sources/*.{h,m,swift}'
-    s.frameworks = 'Foundation', 'UIKit'
+    s.frameworks = 'Foundation'
   end
