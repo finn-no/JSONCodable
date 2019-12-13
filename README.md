@@ -1,5 +1,4 @@
 [![CircleCI](https://img.shields.io/circleci/project/github/finn-no/JSONCodable/master.svg)](https://circleci.com/gh/finn-no/JSONCodable/tree/master)
-[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![CocoaPods compatible](https://img.shields.io/cocoapods/v/JSONCodableType.svg)](https://cocoapods.org/pods/JSONCodableType)
 [![Swift Package Manager compatible](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-brightgreen.svg)](https://github.com/apple/swift-package-manager)
 

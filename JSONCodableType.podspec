@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-    s.name             = 'JSONCodable'
+    s.name             = 'JSONCodableType'
     s.summary          = 'Type-safe Codable wrapper for all basic JSON types'
     s.version          = '1.0.0'
     s.author           = 'FINN.no'
