@@ -2,7 +2,7 @@
 //  Copyright © FINN.no AS, Inc. All rights reserved.
 //
 
-public enum JSONCodable: Codable, Equatable {
+public enum JSONCodable: Codable, Equatable, Hashable {
     case null
     case int(Int)
     case double(Double)
