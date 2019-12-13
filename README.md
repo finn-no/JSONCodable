@@ -10,22 +10,16 @@
 
 ## Installation
 
-**JSONCodable** is available through [Carthage](https://github.com/Carthage/Carthage). Append this line to your `Cartfile`:
+To integrate using Apple's Swift package manager, add the following as a dependency to your Package.swift:
 
-```ruby
-github "finn-no/JSONCodable"
+```swift
+.package(url: "https://github.com/finn-no/JSONCodable.git", .upToNextMajor(from: "1.0.0"))
 ```
 
 **JSONCodable** is also available through [CocoaPods](http://cocoapods.org). To install it, simply add the following line to your Podfile:
 
 ```ruby
 pod 'JSONCodableType'
-```
-
-To integrate using Apple's Swift package manager, add the following as a dependency to your Package.swift:
-
-```swift
-.package(url: "https://github.com/finn-no/JSONCodable.git", .upToNextMajor(from: "1.0.0"))
 ```
 
 ## Usage
