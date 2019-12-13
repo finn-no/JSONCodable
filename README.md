@@ -6,7 +6,7 @@
 **JSONCodable** is a lightweight library for decoding/encoding all basic JSON types in a type-safe manner.
 
 - [x] Support for all basic JSON types (string, integer, number, boolean, null, dictionary and array)
-- [x] Extensions to convert `[String: JsonCodable]` to `[String: Any]` and back
+- [x] Extensions to convert `[String: JSONCodable]` to `[String: Any]` and back
 
 ## Installation
 
